@@ -1,3 +1,17 @@
+<script>
+    // Function to set the height of the iframe dynamically
+    function adjustIframeHeight() {
+        var iframe = document.getElementById('google-form');
+        if (iframe) {
+            iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+        }
+    }
+
+    window.addEventListener('DOMContentLoaded', adjustIframeHeight);
+
+    window.addEventListener('resize', adjustIframeHeight);
+</script>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +67,7 @@
         <p>Phone: <a href="tel:+91 9343655255">+91 9343655255</a></p>
         <p>Email: <a href="mailto:komalsoliwal2@gmail.com">komalsoliwal2@gmail.com</a></p>
         <p>OR</p>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfU5-4sjdVbX5H2ZguJX1gsqe32QtiXFmxVDsfxIYzKjNAI2g/viewform?embedded=true" width="800" height="1100" frameborder="1000" marginheight="0" marginwidth="0">Loading…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfU5-4sjdVbX5H2ZguJX1gsqe32QtiXFmxVDsfxIYzKjNAI2g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </section>
 
     <section id="reviews">
