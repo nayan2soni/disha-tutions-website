@@ -1,11 +1,17 @@
+iframe {
+    width: 100%; /* Make iframe take full width of its container */
+    height: 100%; /* Ensure iframe adjusts height as needed */
+    max-width: 100%; /* Ensure iframe does not exceed its container's width */
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background-color: #f4f4f4;
-    padding-top: 100px; 
-    padding-bottom: 40px; 
+    padding-top: 100px;
+    padding-bottom: 100px
 }
 
 header {
@@ -16,17 +22,19 @@ header {
     position: fixed;
     width: 100%;
     top: 0;
-    z-index: 1000; 
+    z-index: 1000;
 }
 
 nav ul {
     list-style: none;
     padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
 }
 
 nav ul li {
-    display: inline;
-    margin: 0 15px;
+    margin: 0 10px;
 }
 
 nav ul li a {
@@ -38,19 +46,19 @@ nav ul li a {
 section {
     padding: 2rem;
     margin: 1rem auto;
-    max-width: 800px;
+    max-width: 90%;
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    position: relative; /* Ensure content scrolls beneath fixed header */
-    z-index: 1; /* Ensure it's behind header and footer */
+    position: relative;
+    z-index: 1;
 }
 
 section h2 {
     color: #333;
 }
 
-section p, section ul, section blockquote {
+section p, section ul {
     color: #666;
     line-height: 1.6;
 }
@@ -60,13 +68,7 @@ section img {
     border-radius: 50%;
     display: block;
     margin: 0 auto 1rem;
-}
-
-blockquote {
-    border-left: 4px solid blue;
-    padding-left: 1rem;
-    margin: 1rem 0;
-    color: #555;
+    max-width: auto;
 }
 
 footer {
@@ -77,5 +79,20 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-    z-index: 1000; /* Ensure it's above other content */
+    z-index: 1000;
+}
+
+@media (max-width: 768px) {
+    nav ul li {
+        margin: 0 5px;
+    }
+
+    section {
+        padding: 1.5rem;
+        margin: 0.5rem auto;
+    }
+
+    footer {
+        padding: 0.5rem 0;
+    }
 }
