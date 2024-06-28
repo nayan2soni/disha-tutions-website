@@ -1,20 +1,3 @@
-<script>
-    function adjustIframeHeight() {
-        var iframe = document.getElementById('google-form');
-        if (iframe) {
-            // Set the iframe height based on its content
-            iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-        }
-    }
-
-    // Adjust iframe height initially when content is loaded
-    window.addEventListener('DOMContentLoaded', adjustIframeHeight);
-
-    // Adjust iframe height when window is resized
-    window.addEventListener('resize', adjustIframeHeight);
-</script>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,12 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Disha Tuitions</title>
     <link rel="stylesheet" href="styles.css">
+    <script>
+        function adjustIframeHeight() {
+            var iframe = document.getElementById('google-form');
+            if (iframe) {
+                iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', adjustIframeHeight);
+        window.addEventListener('resize', adjustIframeHeight);
+
+        function toggleMenu() {
+            const nav = document.querySelector('nav');
+            nav.classList.toggle('active');
+        }
+    </script>
 </head>
 <body>
-    
     <header>
         <div class="header-container">
             <h1><a href="./index.html">Disha Tuitions</a></h1>
+            <button class="hamburger" onclick="toggleMenu()">&#9776;</button>
             <nav>
                 <ul>
                     <li><a href="./html/about.html">About Me</a></li>
@@ -51,20 +50,16 @@
     <section id="highlights">
         <h2>What We Offer</h2>
         <ul>
-            <li>Personalized Tuition (Online & Offline)</li>
+            <li>Personalized Tuition for 9th and above (Online & Offline)</li>
             <li>Experienced and Dedicated Teacher</li>
             <li>Proven Track Record of Success</li>
             <li>Inclusive and Positive Learning Environment</li>
-            <li>Preparation for Competitive Exams</li>
+            <li>Preparation for Competitive Exams (KCET, JEE)</li>
         </ul>
     </section>
 
     <footer>
         <p>Contact me at <a href="mailto:komalsoliwal2@gmail.com">komalsoliwal2@gmail.com</a> or call <a href="tel:+91 9343655255">+91 9343655255</a></p>
     </footer>
-
 </body>
 </html>
-
-
-
