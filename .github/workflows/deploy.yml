@@ -1,0 +1,26 @@
+name: Deploy Website
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Pull latest changes
+        run: |
+          cd /home/nayan/disha-tutions-website
+          git pull origin main
+
+      - name: Deploy to Nginx
+        run: |
+          sudo rsync -av --delete \
+            /home/nayan/disha-tutions-website/ \
+            /var/www/disha-tutions/
+
+      - name: Reload Nginx
+        run: |
+          sudo systemctl reload nginx

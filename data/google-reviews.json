@@ -1,0 +1,808 @@
+﻿{
+    "placeId":  "ChIJkTNvKdAVrjsRYLzMngGdN0Q",
+    "name":  "Disha Tuitions",
+    "rating":  4.9,
+    "total":  99,
+    "fetchedAt":  "2026-07-23T22:12:14.0364566+05:30",
+    "mapsUrl":  "https://www.google.com/maps/place/?q=place_id:ChIJkTNvKdAVrjsRYLzMngGdN0Q",
+    "writeReviewUrl":  "https://search.google.com/local/writereview?placeid=ChIJkTNvKdAVrjsRYLzMngGdN0Q",
+    "highlights":  [
+                       "Personalized teaching style improving grades and confidence",
+                       "Creates fun and productive learning environment for students",
+                       "Encourages love for subject and ensures crystal-clear understanding"
+                   ],
+    "reviews":  [
+                    {
+                        "name":  "Kamlesh Jhanwar",
+                        "rating":  5,
+                        "text":  "Best tution classes",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLaohYZmCXgx1-EMy5_MtZnGONq1zl7iXMXFZVSYwUcKZ1mjQ=s120-c-rp-mo-br100",
+                        "date":  "2026-05-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KSWJtZExhbmxuTUhKTlZGRXROV0pwUWprMmVsRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOmJIbmdLanlnMHJNVFEtNWJpQjk2elE%7C%7C"
+                    },
+                    {
+                        "name":  "Vibha Bansal",
+                        "rating":  5,
+                        "text":  "My experience learning here has been really positive. Ma\u0027am teaches us with patience and makes it very easy for us to understand each concept instead of just memorizing it. She makes sure we remember all our formulas for each subject and keeps testing us every now and then to measure our progress. She makes sure all our doubts are cleared and we stay ahead of the curve as she helps us solve question papers and focuses on preparing us for our exams. Overall she is extremely sweet and has a personalized approach towards everything she does. It has truly helped me develop confidence in science and math and helped me improve my grades.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLRyv6YF5hH2hnEJ4_Eou_LabiwQZRJbe8cRqb-LNfskekp6Q=s120-c-rp-mo-br100",
+                        "date":  "2026-03-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xveFNVRkNjMGxWY0dGNFMyMTNkVUpOWkRaVWVHYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOloxSUFCc0lVcGF4S213dUJNZDZUeGc%7C%7C"
+                    },
+                    {
+                        "name":  "Ruby Sharma",
+                        "rating":  5,
+                        "text":  "Teaching with a lot of fun.i really had a very good experience.Thanks maam for ur support and help in studies .",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocI6aRAazQxt4r7rYVV-rGHkExCwNLO4R0zb1Gkn1m8J8uSGrg=s120-c-rp-mo-br100",
+                        "date":  "2026-03-24",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkc1NGRktWMUpDVWs5cU5EUmFWMFozTWtNNWNGRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOkdsSFFKV1JCUk9qNDRaV0Z3MkM5cFE%7C%7C"
+                    },
+                    {
+                        "name":  "Devanshi Jain",
+                        "rating":  5,
+                        "text":  "The math tuition session was very helpful. Concepts were explained clearly, and I felt comfortable asking questions. Mam was very patient and made difficult problems easier to understand. Overall, i had a great session and it boosted my confidence in math.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWobT8w4fRZHWGVZ7E1ltvmUMkFCxjARj93zz53cUkROpHFX_Gb=s120-c-rp-mo-br100",
+                        "date":  "2026-03-24",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pVeWNFUkpSMFY0TVdZNGIzZFlSVFIyY3pGbldFRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOjUycERJR0V4MWY4b3dYRTR2czFnWEE%7C%7C"
+                    },
+                    {
+                        "name":  "Vidhi Rathi",
+                        "rating":  5,
+                        "text":  "Ma\u0027am has consistently gone above and beyond for us, always willing to hold extra classes and put in tremendous effort to ensure our understanding. She\u0027s always available to clarify even the smallest doubts, whether it\u0027s for a minor test or a major exam, and is dedicated to helping us succeed.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKS6-CZuartFoo5QcashzKU1rHg5ByH0_B-tRnd8Op-hkWOsDI=s120-c-rp-mo-br100",
+                        "date":  "2026-03-24",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sdVFrOXlkRmRZUkdocVNXcHpZV05PT0VKeU0yYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOmluQk9ydFdYRGhqSWpzYWNOOEJyM2c%7C%7C"
+                    },
+                    {
+                        "name":  "Gaja lakshmi",
+                        "rating":  5,
+                        "text":  "It\u0027s amazing the way she teaches. She is fun as well as strict. She gives all her attention to each and every student and makes sure that no one has any doubts left .",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX8cDwBtVeTkGnK9ta3J8aD2Qr6EtUmWlbTr-xLMrrM08DB1kWl=s120-c-rp-mo-br100",
+                        "date":  "2026-02-16",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oYU1sVjVkMlZwU21wVmVrSmFYMVZJWkZGT2JVRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOnhaMlV5d2VpSmpVekJaX1VIZFFObUE%7C%7C"
+                    },
+                    {
+                        "name":  "BHAVI MUTHA",
+                        "rating":  5,
+                        "text":  "Shes an amazing teacher strict but easy to tall to and explains the concept multiple times till u understand especially maths",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjU72ROeMwn38P2N0sdM7e5HC3tTJn_qAs170TiaF8x4pDiSVMI=s120-c-rp-mo-br100",
+                        "date":  "2026-01-23",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGb2JFSnRVM0ZEUlZOMWNteE9Wa0YyVEdwa2NYYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOkFobEJtU3FDRVN1cmxOVkF2TGpkcXc%7C%7C"
+                    },
+                    {
+                        "name":  "Vasuraj Raj",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJ1GVo5yEf0BBclr5qcjllG3Epq7r-t7J5TD8EqypqJOc_ozQ=s120-c-rp-mo-br100",
+                        "date":  "2026-01-23",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sWFJVRTNjMWx3TkdSVFRsZHdjMlZGWkZwbmRWRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOnlXRUE3c1lwNGRTTldwc2VFZFpndVE%7C%7C"
+                    },
+                    {
+                        "name":  "Samkit Mehta",
+                        "rating":  5,
+                        "text":  "One of the best tuitions in shantinagar for better understanding in subjects like science and maths",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIKwFmpkglFOC6NzATezu0B3EAQAIg-43_N8VURvhe_NHav1g=s120-c-rp-mo-br100",
+                        "date":  "2026-01-22",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oV1IycG1lbUZCYUVnMFIxVnhZMFF6Y1dsMU1HYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOmhWR2pmemFBaEg0R1VxY0QzcWl1MGc%7C%7C"
+                    },
+                    {
+                        "name":  "neeya pramod",
+                        "rating":  5,
+                        "text":  "She is a very good teacher. She explains concepts clearly and makes hard topics easy. She is patient and always ready to help",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX86CaX2iHvE0k9xMbFnkFHGYPD2me4NJjLMXJ4IFcwpaTmY18=s120-c-rp-mo-br100",
+                        "date":  "2026-01-22",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201VlVIUkZhbWR2UjBkR01FaHlSRloxVTA5bWFsRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOm5VUHRFamdvR0dGMEhyRFZ1U09malE%7C%7C"
+                    },
+                    {
+                        "name":  "Sidhi Sumukh",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocL5YVyADLJDeziSBKKIJJy1-QY8fPf-OLkYaMYAsiZa9O_vmw=s120-c-rp-mo-br100",
+                        "date":  "2026-01-19",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GYVdFaFdSVnA0YkdaNU5XOWlaa2Q1VUhsMVpIYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOmFaWEhWRVp4bGZ5NW9iZkd5UHl1ZHc%7C%7C"
+                    },
+                    {
+                        "name":  "Beena K",
+                        "rating":  5,
+                        "text":  "Komal ma’am is an amazing teacher. She teaches really ma’am and makes sure you\u0027ll do all important questions and pervious year questions which is really important to understand the concept well.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJpfr8c9hryAVZPk5T73hoxjPC-F86hqQO5ZLMKhWWrHUXOYg=s120-c-rp-mo-br100",
+                        "date":  "2026-01-17",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tRelEydEtOVTV1UkZWaFoxSXdNMlZ6UzFoUk5HYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOkQzQ2tKNU5uRFVhZ1IwM2VzS1hRNGc%7C%7C"
+                    },
+                    {
+                        "name":  "Misha Jain",
+                        "rating":  5,
+                        "text":  "very helpful specislly with doubts and concept building",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIyR3-QofYYj4vH_OUlKrtVkA81rCXvia4Wn_F1bRlG53sIVg=s120-c-rp-mo-br100",
+                        "date":  "2026-01-17",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pka0xUSmxhREJZWTBrNGEzVkxja1JuWTNoSlgzYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOjdkLTJlaDBYY0k4a3VLckRnY3hJX3c%7C%7C"
+                    },
+                    {
+                        "name":  "Ruzaina Ahmed",
+                        "rating":  5,
+                        "text":  "Komal ma’am is honestly one of the sweetest teachers ever. She’s polite, kind, and always makes sure we really understand the concepts. Her way of teaching makes math easy to understand, and she always explains with patience she creates such a positive and encouraging atmosphere in class. I truly feel inspired and grateful to have her as my teacher I really enjoy her classes and feel lucky to have her as my teacher",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIePaHD1y-jPA-c9eb94oJQ4rKv-IP-9u5EhmmPVCa49uwZsw=s120-c-rp-mo-br100",
+                        "date":  "2025-09-27",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ONFZVUk5Oblp6YkRRNFNqSllRMHAzZVRoMk0zYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOnN4VURNNnZzbDQ4SjJYQ0p3eTh2M3c%7C0cpuuBSTRWM%7C"
+                    },
+                    {
+                        "name":  "Parini cr",
+                        "rating":  5,
+                        "text":  "I\u0027ve never seen someone who teaches like Komal ma\u0027am. She explains each concept in a trouble-free manner. She gives her best while teaching for students to understand way more easier. She is such a sweet teacher. Thank you so much Komal ma\u0027am for your support and guidance.😊",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocK0WS4-jPDFepaGKz2PSjCQX_y64IISr82Of-uj-NZg66X5jQ=s120-c-rp-mo-br100",
+                        "date":  "2025-09-25",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KaGFtcFNNM2hKWWxsU1dtUlpiV3hoWkhFeE5tYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOmJhampSM3hJYllSWmRZbWxhZHExNmc%7C0cpGIq7Tlkw%7C"
+                    },
+                    {
+                        "name":  "Amit Varma",
+                        "rating":  5,
+                        "text":  "A huge shoutout to Komal Madamjee, the maths magician who turned my son- Maan’s summer into a formula-filled fun fest! 🔢✨\nThanks to her, he now solves IGCSE problems faster than he finds snacks in the fridge😄😉🤣\nPatient, encouraging and sharper than a compass!! Highly recommended! Disha Tuitions bacho ko asli Disha dikhati hai!!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXMF0d9nwk9clltOmqyuLVC98PODme9TayKiPAvpDm9YviNn-6R=s120-c-rp-mo-ba3-br100",
+                        "date":  "2025-07-12",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKcmJ6QXlaR2xEUzBvMWVGaG5UVzlCWTBkQmQyYxAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CAIQACodChtycF9oOjJrbzAyZGlDS0o1eFhnTW9BY0dBd2c%7C0cRe0PEzXzL%7C"
+                    },
+                    {
+                        "name":  "Kishan Soliwal",
+                        "rating":  5,
+                        "text":  "Amazing teacher",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjV0DGxh4udK1xrw5xoUOLg97ryTlTgotaTsf__Snu_m_DQG81qb=s120-c-rp-mo-br100",
+                        "date":  "2025-04-19",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNvdmNTUHl3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMCovcSPywE%7CCgsIucyNwAYQ2IaqIQ%7C"
+                    },
+                    {
+                        "name":  "Sanjana R Rajpal",
+                        "rating":  5,
+                        "text":  "Mam is an amazing person in and out. She has been the sweetest and kindest person who patiently taught me everything until Im clear with all the concepts",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIpXWLInchP-z330iygYlL7saahjOReKYVCpI4rtapPEXRXHg=s120-c-rp-mo-br100",
+                        "date":  "2025-04-13",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUN3NTdxcFp3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMCw57qpZw%7CCgwImtT2vgYQgL_fgAE%7C"
+                    },
+                    {
+                        "name":  "Jyothi Rajpal",
+                        "rating":  5,
+                        "text":  "She has been a very great and dedicated teacher,my daughter learnt alot  from her,I really appreciate her way of teaching,",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIZldPRkgsff1E5dAPD7OUii4JEqXD7NiGYINQ8BpKmdrHtbg=s120-c-rp-mo-br100",
+                        "date":  "2025-04-13",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLc2ZuOS1BRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKsfn9-AE%7CCgwIp-z1vgYQkLqIvwI%7C"
+                    },
+                    {
+                        "name":  "shreya J",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocK6LRivq6kNahfupdHb4_fx9GE2snhRLBrHhMZyS7ULIVj_qg=s120-c-rp-mo-br100",
+                        "date":  "2025-04-04",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNJazVuU253RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMCIk5nSnwE%7CCgwIl5a_vwYQiMrqtwE%7C"
+                    },
+                    {
+                        "name":  "Aditya Asrani",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKKVG_p03wNemN1wv2eq1anZyqLbM_egaUB0yuIwioRkiiXdQ=s120-c-rp-mo-br100",
+                        "date":  "2025-03-27",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLZ2NyLUV3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKgcr-Ew%7CCgwInZCUvwYQyL_kzAI%7C"
+                    },
+                    {
+                        "name":  "Shivum Asrani",
+                        "rating":  5,
+                        "text":  "best teacher and teaching methods and the SWEETEST teacher♥️\n10/10 would recommend",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKzC_hlUKMg6oqdsnwYEyggj_--SdCZB8Sw75zvnk3Wca5XcA=s120-c-rp-mo-br100",
+                        "date":  "2025-03-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3NFl6ZURREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMDw4YzeDQ%7CCgwImeWPvwYQ4JHlxQE%7C"
+                    },
+                    {
+                        "name":  "Suyasha Bohra",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXbEzpsK1xBQ2Lr8sDFx_tdobbCzDVx26Sloq6tmcyPPDTS7KY=s120-c-rp-mo-br100",
+                        "date":  "2025-03-22",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUR3d0lIMXl3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMDwwIH1ywE%7CCgsIoZD7vgYQuJ-4JA%7C"
+                    },
+                    {
+                        "name":  "Anitha P",
+                        "rating":  5,
+                        "text":  "Komal ma\u0027am is an excellent teacher. She gives individual attention to the students, always there to help us. She motivates us. Thank you ma\u0027am for all the help you did during my boards.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUMIoOF5h0hzUROQmBu4oQ8OQcNaL50aciGxbuAh2BjdnaiEFQ=s120-c-rp-mo-br100",
+                        "date":  "2025-03-22",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUN3Mzk3N3FBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMCw3977qAE%7C%7C"
+                    },
+                    {
+                        "name":  "krithik dugar",
+                        "rating":  5,
+                        "text":  "I wholeheartedly endorse Komal Ma’am for mathematics tuition. Her pedagogical approach seamlessly demystifies intricate concepts, fostering a profound comprehension of the subject. With unwavering patience and a keen ability to tailor explanations, she instills confidence and refines problem-solving acumen. Her dedication and intellectually stimulating methodology make her an invaluable mentor for anyone striving for mathematical excellence.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjU_lVSDgP6O-0AlWLtUa9vqFi0RINBG1DcVz81Gitsz4TkWfg6c=s120-c-rp-mo-br100",
+                        "date":  "2025-03-21",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUN3LTRMM0dREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMCw-4L3GQ%7CCgwI7s71vgYQsIe38AI%7C"
+                    },
+                    {
+                        "name":  "diya dhanesha",
+                        "rating":  5,
+                        "text":  "Loved going here! Majorly helped improve my grades plus it’s a very fun experience learning from Komal ma’am!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUhAzdUvnW4jZD9OptsGWWIvSLvykYmvlzBUbOUh-qsuzV_FZoP=s120-c-rp-mo-br100",
+                        "date":  "2025-03-21",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUN3LS1XWC1RRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgMCw--WX-QE%7CCgwIhNr1vgYQoLT1oQM%7C"
+                    },
+                    {
+                        "name":  "Jency Hendrita",
+                        "rating":  5,
+                        "text":  "My experience at Disha Tuition was positive. The teacher was patient, thorough, and ensured that all doubts were addressed effectively. The 2-hour sessions were well-structured and productive, with additional slots offered when necessary. This focused approach significantly improved my academic performance.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVrnmdTb9wY5yE8K9ezwlzqV6zBrQQ32YVkAkYe5UJTQrP2NeNP=s120-c-rp-mo-br100",
+                        "date":  "2025-02-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfekppbnFnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID_zJinqgE%7CCgwIpJHCvAYQoJ2khwM%7C"
+                    },
+                    {
+                        "name":  "Aravind Anand",
+                        "rating":  4,
+                        "text":  "Good",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX1aPnw14Ggnczlb4M4DdtFZZhz4tKuy7od-cSgk99g6toMbbYB=s120-c-rp-mo-br100",
+                        "date":  "2025-02-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfek43amdRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID_zN7jgQE%7CCgwI8ZTCvAYQiP-T1gM%7C"
+                    },
+                    {
+                        "name":  "Ashish Rao",
+                        "rating":  5,
+                        "text":  "Very helpful and would 100% recommend the tution.the tution helped me to get my math basics higher and gain more knowledge",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWVWrzdpyPGH_xGkwIGvPOjWcuGYob7mpqCVAgaQQYTzoQU6a3w=s120-c-rp-mo-br100",
+                        "date":  "2025-02-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfeklfV19RRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID_zI_W_QE%7CCgwIoqrCvAYQ6NfAwAE%7C"
+                    },
+                    {
+                        "name":  "Kaira Bajaj",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWa2nuV0so7NLGQg5UgutS2msYr0qoQH54nkeTL22ie07uEpTWz=s120-c-rp-mo-br100",
+                        "date":  "2025-02-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfekxfVTB3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID_zL_U0wE%7CCgsIsazCvAYQkIixLw%7C"
+                    },
+                    {
+                        "name":  "Sana Haider",
+                        "rating":  5,
+                        "text":  "Pays attention to each and every child.\nUnderstands the need of the child and assists it, helping them improve in their academics.\nHelped my daughter improve in subjects like Math, Physics and Chemistry and assisted same doubt countless times. Personally my daughter has improved a lot in her academics and is now doing better.\nThanks a lot Komal for your assistance and dedication.🥰",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXYZP1pDrupuRTiaNisolSdNBBTN-JNHVXhYVPFcvMbrqiwivKj=s120-c-rp-mo-br100",
+                        "date":  "2025-02-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfdktqdDl3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID_vKjt9wE%7CCgwI5vDDvAYQuL2A1AM%7C"
+                    },
+                    {
+                        "name":  "Gnyaneshwar V L",
+                        "rating":  5,
+                        "text":  "I was an average student in school. Not getting good grades. Then a friend of mine recommended me Disha tuitions. Since then I\u0027ve been scoring above 90% in maths and science. Ma\u0027am has helped me in all aspects. She\u0027s the best teacher I\u0027ve ever had. Thanks a lot ma\u0027am!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWtSovLlkfxp1gWZvdh5Mb2Y_HdLzwEg2lmZ0DpO3EktrWoATNv=s120-c-rp-mo-ba3-br100",
+                        "date":  "2024-08-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNycGRYZG5BRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICrpdXdnAE%7CCgwIzua0tAYQ2IbXiQM%7C"
+                    },
+                    {
+                        "name":  "sweta jain",
+                        "rating":  5,
+                        "text":  "Komal ma\u0027am  is an amazing teacher .\nLove the way she teaches .\nShe encourages us .\nShe is an amazing math tutor .",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXiUdOvf6PO0yf06nofP0i6DbWYBEDd0KgQuQW_OE8O2wQAv6Ek=s120-c-rp-mo-br100",
+                        "date":  "2024-08-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNybTlhWUx3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICrm9aYLw%7CCgwIuue-tAYQoLn73AE%7C"
+                    },
+                    {
+                        "name":  "Latika Nag",
+                        "rating":  5,
+                        "text":  "Komal has been a strong consistent support for math throughout my son\u0027s tenth grade and kept pushing him to perform to his potential. I would highly recommend her as a math tutor.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjW3-yjR4X9qwogdZ9hw0iBiWZ4ymQztXctiPEQDszpIhA5R3aEr=s120-c-rp-mo-br100",
+                        "date":  "2024-07-01",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6cVBqSGRnEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDzqPjHdg%7CCgsI-LyKswYQ-IvMXg%7C"
+                    },
+                    {
+                        "name":  "NAYAN SONI (RA2211033010141)",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJ59YttI7gv_xeqx7E_pJYPqgz9U3fuZkHGUWYfXXCJ3r6LhQ=s120-c-rp-mo-br100",
+                        "date":  "2024-06-28",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURMcXNLUDN3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDLqsKP3wE%7CCgsIvYvyswYQ0MPTJA%7C"
+                    },
+                    {
+                        "name":  "Tanishka Soni",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUe_vphZRY7HuV6GbTAJxmnMBZ8I0LbvUYPzDMwbHvIwRySxdiT=s120-c-rp-mo-br100",
+                        "date":  "2024-06-16",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6cXNHTG9nRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICzqsGLogE%7CCgwIprDrsgYQ-MSS5QI%7C"
+                    },
+                    {
+                        "name":  "Shraddha Makana",
+                        "rating":  5,
+                        "text":  "Amazing place with the best maths teacher .Komal ma\u0027am is really amazing .\nShe helped me to improve a lot in maths .",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKklSF9FPAqiVZNPKS9sltyqivM4aSDVdp_dS852ovrpVJ3_g=s120-c-rp-mo-br100",
+                        "date":  "2024-06-16",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6Nm91Z3JRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICz6ougrQE%7CCgwI7ODrsgYQsKX5rQI%7C"
+                    },
+                    {
+                        "name":  "Shreya J",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJgrx6wY3MufUt6qI2BP8TJZCGca6hXr3UvXCvigLE5bJDwUg=s120-c-rp-mo-br100",
+                        "date":  "2024-06-16",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6bXViVHZnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICzmubTvgE%7CCgwIpffrsgYQgKSrvgE%7C"
+                    },
+                    {
+                        "name":  "Mehak Ligade",
+                        "rating":  5,
+                        "text":  "Komal aunty is very sweet and patient ..even if you ask her about any doubt whether it be silly she will still clear your doubt with the same dedication.She encourages us to to love the subject we study which is very encouraging...I loved going to komal aunty and enjoyed studying there😊❤️",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXjBso4vS7D39SllUWVMTXh9avFVwxolJIw9Ws6qWtjYopFCkVz=s120-c-rp-mo-br100",
+                        "date":  "2024-06-16",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6dXY2U2RREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICzuv6SdQ%7CCgwI78LssgYQwKvrkwE%7C"
+                    },
+                    {
+                        "name":  "Vedant Vora",
+                        "rating":  5,
+                        "text":  "Very dedicated to helping students reach their academic goal",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIKCudZf_uGU3Y47mNP0U6EZKrtT7EMwM3VJjpO5qvvdOOG_w=s120-c-rp-mo-br100",
+                        "date":  "2024-06-16",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6dXJtQU13EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICzurmAMw%7CCgsIn8nssgYQiJW9QQ%7C"
+                    },
+                    {
+                        "name":  "Kalgar Fh",
+                        "rating":  5,
+                        "text":  "Great experience learning with mam..disha tuitions is just fab..",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKF835vicA6O72O2ODlFFm_CWjMg0upPxz-ZG-s4Tqs-cG2Xw=s120-c-rp-mo-br100",
+                        "date":  "2024-06-09",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUejVldmFBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICTz5evaA%7CCgsIx7etsgYQiPriYQ%7C"
+                    },
+                    {
+                        "name":  "Ved Rathi",
+                        "rating":  5,
+                        "text":  "I highly recommend Komal ma’am as a math tutor. Her patient teaching style, and ability to simplify complex topics have greatly improved my grades and confidence. Komal ma’am’s dedication and personalised approach makes learning math very enjoyable.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjV6nSpSoMVe1r35NJAMQgnh44ULuDJ8rXLUBTenX8qRon8g_37B=s120-c-rp-mo-br100",
+                        "date":  "2024-05-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUcVo3NlR3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICTqZ76Tw%7CCgwIm-qXsgYQ4NDxugE%7C"
+                    },
+                    {
+                        "name":  "Sumer Nag",
+                        "rating":  5,
+                        "text":  "great teacher, highly recommended. Amazing help during board exam season, and year round. very grateful for all the help",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVTxVwd7e_ma9aH_diBkVsE77xOnApHbhgVmfS_L1bQKBkR_CE=s120-c-rp-mo-br100",
+                        "date":  "2024-05-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUcVpIajBBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICTqZHj0AE%7CCgsIzvSXsgYQsL3iOA%7C"
+                    },
+                    {
+                        "name":  "Kavitha Rk",
+                        "rating":  3,
+                        "text":  "Good",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVRLGlZNHfQtkY41radbgG9AQVNt0epDdZ_BdhaE23Xg2jfHxGGXQ=s120-c-rp-mo-br100",
+                        "date":  "2024-03-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5OEx6bjl3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIC98Lzn9wE%7CCgwIqNeCrwYQyMrU3gI%7C"
+                    },
+                    {
+                        "name":  "Kushi Karna",
+                        "rating":  4,
+                        "text":  "It\u0027 was a wonderful experience coming to Disha Tuitions . The method of teaching was very different and easy to understand . Weekly tests were conducted it helped me to know were I stood in that subject .",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX-8UWGWKiYblt1Cp8ZRnlFeL0Fxq9MWhN5XlmmKGdUSOaF62lO=s120-c-rp-mo-br100",
+                        "date":  "2024-03-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5OGJic2NBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIC98bbscA%7CCgwI-vKirwYQ8Pv_zwM%7C"
+                    },
+                    {
+                        "name":  "j lakshmi",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocI17Vcw65oD7QuoAQUnyo_HABBny1decEgBZCM4DYVYZ_NQfg=s120-c-rp-mo-br100",
+                        "date":  "2024-02-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkMlB5bVRBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICd2PymTA%7CCgwIm86irgYQuLGsoAI%7C"
+                    },
+                    {
+                        "name":  "Shubangi Khokale",
+                        "rating":  5,
+                        "text":  "Komal Ma’am is an Amazing teacher . My son had joined for CBSE  maths classes , her teaching , covering up all the concepts , practice \u0026 revision helped him perform well in his exams .  Her Knowledge \u0026 teaching skills are remarkable, She’s Very friendly \u0026 a Great teacher .",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKQZGBAuBn7rfD7vsHOshfGW79PI5eNc-OuAGY7r_jvN8XWlQ=s120-c-rp-mo-br100",
+                        "date":  "2024-02-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNkd2VfdHBnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICdwe_tpgE%7CCgsI9bq5rgYQyMW3DQ%7C"
+                    },
+                    {
+                        "name":  "Sanvi Jadwani",
+                        "rating":  5,
+                        "text":  "Amazing tuitions, every doubt is taught and cleared until we understand and Komal ma’am makes sure to make every topic so easy for me ,she never lets her students waste even one second and that makes everyone feel so productive that it has now become fun to go for tuitions , ma’am has made me realise that maths is actually the easiest subject  , thank you for everything ma’am ❤️",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLJvjWAQh4ekNIZXvQ5Ob04bX4L5Xiqjvmdy2FdMvsLPpCLPQ=s120-c-rp-mo-br100",
+                        "date":  "2024-01-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQxbTRhM093EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID1m4a3Ow%7CCgwIgeT5rAYQkIzXiwM%7C"
+                    },
+                    {
+                        "name":  "RAJKAMAL GUPTA (RA2211033010102)",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJKoaDIipePyCLIuZNfWB5H_dV5QNCn1HK_5xO9tuLQqB8FfQ=s120-c-rp-mo-br100",
+                        "date":  "2023-12-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWMTRIWGVnEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDV14HXeg%7CCgwIuMP_qwYQiOr3ugI%7C"
+                    },
+                    {
+                        "name":  "Bruce Wayne",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocK787nNeJeyA4csQMCNWo0Rv59MECQdiblLMtoGHXKxXuU1Jw=s120-c-rp-mo-br100",
+                        "date":  "2023-12-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURWMThIRW5BRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDV18HEnAE%7CCgwIzsP_qwYQwOLDswI%7C"
+                    },
+                    {
+                        "name":  "Reshma Zackie",
+                        "rating":  5,
+                        "text":  "Komal is a very helpful and a brilliant teacher. She makes her students very comfortable, making learning and teaching seem easy.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJx9ZX_V2L8a_PXAR7OXDm3jNjEYsZMWHkmJHesDthiNuIoNCQ=s120-c-rp-mo-br100",
+                        "date":  "2023-12-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURWdDhYYzh3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDVt8Xc8wE%7CCgwIxL6ArAYQ8KuFzAI%7C"
+                    },
+                    {
+                        "name":  "Ddeepak Ssonni",
+                        "rating":  5,
+                        "text":  "The teacher is very professional and experienced",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKvb2ljG1nhRnZiKae02d0ilOEJKncMbqlQ2sWb7m1H2VmQsw=s120-c-rp-mo-br100",
+                        "date":  "2023-09-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwc19lMDlRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDps_e09QE%7CCgwI4u6zpwYQkKCo1gE%7C"
+                    },
+                    {
+                        "name":  "sanjay",
+                        "rating":  5,
+                        "text":  "Before joining this tuition I wondered a lot about ISC maths but the teacher with one to one attention showed the true meaning of ISC MATHS. I also learned to concentrate only on studies and keep my focus alive. I was happy with my results after joining.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIX7NkfJWA_cNsBJbbu_RUlA0vcRs0hOE8GLkyhTFT4sylLwHM=s120-c-rp-mo-br100",
+                        "date":  "2023-07-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKdjk3MmpBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICJv972jAE%7CCgsIv5ukpQYQqKTMIg%7C"
+                    },
+                    {
+                        "name":  "Pooja Soni",
+                        "rating":  5,
+                        "text":  "Komal Ma\u0027am has been such an highly experienced and cooperative teacher.she has made maths very easy, simple and clear to understand well. Highly recommend Disha tution - komal Ma\u0027am.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX1Ix7MfgCIgy75I0tZTXUMpbHh0pNoG9tpf2UuSRJWWuTqQh0l=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURPMk9YTEZ3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDO2OXLFw%7CCgsI2N7slQYQkNWUPg%7C"
+                    },
+                    {
+                        "name":  "Ishika Jain",
+                        "rating":  5,
+                        "text":  "The best teacher i have ever come across.the way she built the confidence in every student is amazing....❤️✨",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVTME8ZGNQ4N8V5oIJtR0LcC9UuyOf1IPMS2NqLdjfW1Gf_ZW_Z3g=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURPek8zMk5REAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDOzO32NQ%7CCgoIteChlgYQgJEk%7C"
+                    },
+                    {
+                        "name":  "Dimple Bathija",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIiXbychx7ZRdL9Ddq4ToXAeNqpOS8rfxFQAzRrVNPQpAzJfA=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtLVBQc3p3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDm-PPszwE%7CCgsIh6bblgYQyPD0Yw%7C"
+                    },
+                    {
+                        "name":  "Faiza Salahuddin",
+                        "rating":  5,
+                        "text":  "Komal aunty, you were an excellent teacher during the two years I spent learning maths with you. You were so patient and never hesitated to explain any problem multiple times. I had the best learning experience with you. You were always so kind and I always had fun during the tuitions. All my knowledge in maths is all thanks to you!\nI absolutely cherish the the time spent with you. My all time favourite math teacher!!!",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocI0lmq3sfXD4m5uqNRgK_8gY62YyvM4zj9W8QMoCElHB1R-Zw=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN1NktmUExREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICu6KfPLQ%7CCgsI29DelgYQ0KKFGA%7C"
+                    },
+                    {
+                        "name":  "Anand Soni",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUSPTxHm6TSA_6Y5Og9M6KEBI6cltm4U_SSglJbkjfjahpFnL9HOg=s120-c-rp-mo-ba5-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlczRMZDFRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICes4Ld1QE%7CCgsI4c61mQYQ0I-1GA%7C"
+                    },
+                    {
+                        "name":  "Bhawika Jain",
+                        "rating":  5,
+                        "text":  "I had a really great experience with Komal ma\u0027am. Great teacher, very attentive, helped me with the smallest of doubts and makes sure you get the concept clear even if it takes a bit longer. Would really recommend!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWa_SKx-qqnYTUp7jhHhYbtahk5ci80QhBiIR6ssHrI0n6dMrOp=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtck9LZEJ3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID-rOKdBw%7CCgwI7cf3mwYQ8LyyxgM%7C"
+                    },
+                    {
+                        "name":  "vrudhi ak",
+                        "rating":  5,
+                        "text":  "I am having a great experience with komal ma\u0027am. She is an amazing teacher who helps you with any queries regarding the concept and will make sure you understand it properly.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJk2K0aU0j15q4yXgu0Xgn-aiabMn80XiA2kE5CE4cmmkXI3ZU=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCOXBiMkNBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICB9pb2CA%7CCgsIj5ugnQYQiM_2bQ%7C"
+                    },
+                    {
+                        "name":  "Uzra Shafeeq",
+                        "rating":  5,
+                        "text":  "Tbh the best maths tutor i ever had .... I have never understood maths so easily but now am understanding everything\nThank you so much komal ma\u0027am",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJY0RNhctKBmdOR70s_tgUb1p4b4j2wqPVoFNO2JV5wl4bZtG5v=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCanBUMV93RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICBjpT1_wE%7CCgwIi5ChnQYQoILrogE%7C"
+                    },
+                    {
+                        "name":  "Joanna Oommen",
+                        "rating":  5,
+                        "text":  "I loved the way Komal Ma\u0027am explains, it made my concepts more clear.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX_ok2IG1-9wE7HrUQkzXQ-ZKDE5gOdOVgCq_Jhtj5_ZYrq8dFs=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCa2RqZU93EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICBkdjeOw%7CCgsInMuunQYQ0NO3cQ%7C"
+                    },
+                    {
+                        "name":  "Mohit Jain",
+                        "rating":  5,
+                        "text":  "Honestly the best math , phy and chem teacher out there",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXGaYfLgjan6tTJ6nZ9fWGlJt8y-_18NlmoXW-0xOl2J4DV2woO=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURPenVDa0lBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDOzuCkIA%7CCgwInMGwnQYQ4Ja-jAE%7C"
+                    },
+                    {
+                        "name":  "vibha bajaj",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJQ9RVYw3Zk_nS7Vn16LNPevgP3yDUu6F2ydjMi600V6rLFgg=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCOFkzalVREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICB8Y3jUQ%7CCgwI3JKynQYQ4NeL9wE%7C"
+                    },
+                    {
+                        "name":  "Kevin Alex",
+                        "rating":  5,
+                        "text":  "Coming to Disha tutions has helped me quite a lot in my studies .Classes here are very interactive and the way komal ma\u0027am explains everything really does make the concepts crystal clear",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLidne_RN90KAZ69nFw-nW4TO79g8nBvXVEWUcnSin8rDgftQ=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCc2JtTllBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICBsbmNYA%7CCgwI0_HgnQYQ-NCktAI%7C"
+                    },
+                    {
+                        "name":  "Tiana Fernandes",
+                        "rating":  5,
+                        "text":  "Professional way of teaching, I\u0027ve had a phenomenal experience here so far!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUoYH5V-gsAEZTqWXofl91fMogR235DID0wOJX-GN7i7uKLh0gY=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCM2J6S0FnEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDB3bzKAg%7CCgwI3K3KngYQ4LmG_AE%7C"
+                    },
+                    {
+                        "name":  "Neha Sethiya",
+                        "rating":  5,
+                        "text":  "\"Disha tutions \"is exceptionaly good. Miss Komal is a fantastic teacher. Not only is she  brilliant at her work , but is  extremely dedicated,  patient, compassionate, friendly ,encouraging and supportive to her students... She was very helpful in guiding our child ,\nplacing her hope and trust in him and encouraging him to excel,by  putting  in his very best . Her teaching skills and knowledge of the subjects are\nremarkable.....Thank you so much Miss Komal in inspiring him to aim and achieve greater heights . I highly recommend her.....Neha",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjX1FQ-PNOpQvMVvfZMsC1p9hxzyR7gjmR6Keik0SvbgB4JmQ0DP=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCbTRPdkR3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDBm4OvDw%7CCgwImuzZngYQwOiAogE%7C"
+                    },
+                    {
+                        "name":  "Prateek Bansal",
+                        "rating":  5,
+                        "text":  "Komal ma\u0027am (disha tutions) is very good for tutions, probably the best teacher one can find in Bangalore. If you choose her, then don\u0027t worry about marks. You will ace in your exams.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIEoKHkHPxmmffuXHF_uJFA0fbMy93pxalQJCCntYaiVJ8nsQ=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNoeFl5ZExBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIChxYydLA%7CCgwIxua-nwYQ8Kv2zQM%7C"
+                    },
+                    {
+                        "name":  "Pranjal Jain",
+                        "rating":  5,
+                        "text":  "One of the best tution centres for subjects like math, wonderful classes, personal attention to every student!! She makes every concept so easy and understandable!!\nThe best!!!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUAW_TVxNTOV1Uk9JPtCHeZRmdsvRYjz1Wcts9sfsjQpyh_fB3c=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCc2JySUV3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICBsbrIEw%7CCgwIs83BnwYQ6InXuwM%7C"
+                    },
+                    {
+                        "name":  "Palak K Jain",
+                        "rating":  5,
+                        "text":  "Ine of the best tuition teacher for math and science subjects. Ma\u0027am clear all small doubts and makes every consept very easy and understandable",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUNiNwvUM7x1y-4FbayvDJlxt4GiQvN2pAwda3AAsp1BIP3YSo=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoNDZYSGhnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICh46XHhgE%7CCgwIlPLRnwYQiPWOwwE%7C"
+                    },
+                    {
+                        "name":  "veena Gangadhar",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLSPCfai6-wnlrdTHVP7OjITYLyckG60kuv5lEKx8SYn9AU4g=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoLUpEWGR3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDh-JDXdw%7CCgsI1tD7nwYQ6M-Sbw%7C"
+                    },
+                    {
+                        "name":  "Vyshnovi Krishna",
+                        "rating":  5,
+                        "text":  "It was a great experience.  I hv improved a lot in maths because of komal mam . Thank u mam.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJNVrqrTognNXzQq6htXFbXIerQboiAj4WiIkqvREHr1927Vg=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURodklPaUNBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDhvIOiCA%7CCgwIp5WMoAYQuJ7C_wE%7C"
+                    },
+                    {
+                        "name":  "Payal Shah",
+                        "rating":  5,
+                        "text":  "Classes here are so worthwhile...Komal Mams manner of teaching is perfect.. Breaking down things into criteria and giving her students every support they need.. Understanding students behaviour and channelising him .. I recommend her highly..",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUCa8tedwNgHnpopsU5tZxPhJbiT0vcfUN0DwTN1M7kpHtZmKa-mw=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURoX01lUTRnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDh_MeQ4gE%7CCgwIz9iMoAYQ8MKqzgE%7C"
+                    },
+                    {
+                        "name":  "Megna Shri",
+                        "rating":  5,
+                        "text":  "I have been privileged to have such an amazing teacher like ma\u0027am. Your  teaching skills are so professional and easy. U never let us get distracted nor waste time. The way u teach maths, made me love maths so much. It was because of this tuition I improved so well and able to attend my board exam with confidence without fear. The fun chats we have sometime between the class to boost us up will remain the best. Coming to this tutions was my best decision in 10th and mostly meeting you.\nThank you for everything ma\u0027am.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWSwAKp4RXy0euLFQc5LNclTPV6xXfBmhG0gXI9oLDxgkNLZ6I=s120-c-rp-mo-br100",
+                        "date":  "2023-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoNW9uZ09BEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDh5ongOA%7CCgwImqKeoAYQ2J_q9QE%7C"
+                    },
+                    {
+                        "name":  "Sridevi Kapoor",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJvgKjsUmKWyknO3GUbmnZNnzHgp6dGixKG2_tAQcYlVNnHYQ=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhLTl5MWF3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICa-9y1aw%7CCgwIqvnHiAYQsM_J4gI%7C"
+                    },
+                    {
+                        "name":  "Neelam Agarwal",
+                        "rating":  5,
+                        "text":  "Komal ma\u0027am is one of the best teachers. She made math seem simple and cleared all my doubts I had in the subject.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVmkLtFcs22hRsDF42Co5bLt_-GLoqFopv5yN_zN7Oqm97D51HK=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtdU1fVjh3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDmuM_V8wE%7CCgwInfaajwYQ0N7SyAE%7C"
+                    },
+                    {
+                        "name":  "Aditi Bathija",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjW3aDIsHaGYTIj971i5TNMVPBYCVVwHv1lqDm2PtwwUkoNQDD9H=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtLU5qTFZREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDm-NjLVQ%7CCgsIvImbjwYQ-OedHg%7C"
+                    },
+                    {
+                        "name":  "Aditi Bathija",
+                        "rating":  5,
+                        "text":  "Komal ma’am has been such an amazing teacher !!..Maths is taught is in such simple and easy methods which makes it really fun to do .Maths has become my favourite subject after learning with Komal ma’am.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIFDMIx-diZebx25JT_43Hwl635HH3UdepflDQV81WqBszQ-Q=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtLU1fd3FRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDm-M_wqQE%7CCgwI1-ybjwYQ8OrD3QE%7C"
+                    },
+                    {
+                        "name":  "Himaanshi Bansal",
+                        "rating":  5,
+                        "text":  "Maths is a tricky subject but here it is fun and the quality of teaching is amazing !!",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLCgqfhjw3l9qqbQ30klFdbAFZnkdAmbJUYRDSGK88TIqoHAQ=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtcElQR3RnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDmpIPGtgE%7CCgwIrNqfjwYQ2NG54QI%7C"
+                    },
+                    {
+                        "name":  "prarthana varma",
+                        "rating":  5,
+                        "text":  "Ma\u0027am has made math very easy and simple to learn. She\u0027s very understanding and fun loving",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIOln34EbK8iCS76hM4qSszaYfF5bw3bOivhKwjZS1V5vpwbjZb=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURXejlQWjlnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDWz9PZ9gE%7CCgwI1Mu8kgYQqJ7mkQM%7C"
+                    },
+                    {
+                        "name":  "Suresh Suri",
+                        "rating":  5,
+                        "text":  "Komal mam is very good teacher of mine .She helped me a lot to my 10th class  studies. I improved a lot When I joined their I was little weak .After joining for Disha Tutions only I improved .She is really a good teacher she will be so friendly to us .The best teacher in my life....",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVsKXcWK7qBrO3o8je8UpoMW1POzK6zbpKvjwut6hMP3VEbvRSC=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMyZ0stVW1BRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIC2gK-UmAE%7CCgsI5YTFkgYQqLLDWw%7C"
+                    },
+                    {
+                        "name":  "Ruchita Gupta",
+                        "rating":  5,
+                        "text":  "Under the guidance of Komal mam, my son understood the concepts well and gained confidence in solving maths problems. He scored very good marks in term I CBSE and term II he has done well so hoping for good score. Thank you for all the support and guidance.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXkL_l9dx69X_BgX20Dfa17mBthI9wdZpDXsJP3fV0Rfrv2NNqUdA=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQyM2JqZm5BRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID23bjfnAE%7CCgwI06GplAYQqLatywM%7C"
+                    },
+                    {
+                        "name":  "Jainaav Singhi",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJh4MNVholaKSoWn4fJfXJ5n8x1e_uXZLbML1jpvUPbUvGyOQ=s120-c-rp-mo-br100",
+                        "date":  "2022-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQycDlYVVJREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgID2p9XURQ%7CCgwIrr3BlAYQ4KXrpQE%7C"
+                    },
+                    {
+                        "name":  "aayush lakhotia",
+                        "rating":  5,
+                        "text":  "One of the best teachers I have come across with depth of subject knowledge.\nLots of patience.\nTeaches each kid as per his/ her comfort level.\nGoes extra mile to make sure every kid excels in his / her studies.\nDefinite recommendation if you/ your kid needs personal attention.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocK7XiKsVLmEaKJpR_OFXrXCzgt-UgdpCntmlpm4U3oin3UTVw=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURTMi15ODVnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDS2-y85gE%7CCgwI_p7vgAYQoLedvgM%7C"
+                    },
+                    {
+                        "name":  "ABINAV",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUJo3ZMk7AGIP-Muc57xihuYnIBng1UjfXM-uAnmxFDK0ogtw46=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5cy12NzRBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICys-v74AE%7CCgwI07iZgQYQ-Me6hwE%7C"
+                    },
+                    {
+                        "name":  "Sneh Bothra",
+                        "rating":  5,
+                        "text":  "amazing tuition, komal ma’am teaches with a lot of patience and makes sure everything is understood well by the students. komal ma’am is very sweet and and patient and teaches very well. tuition was very helpful and fun for me and raised my grades drastically. definitely recommended!",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocL_IBjM8N3iVN3zTrns414KWKbc-TMio_m-1TbEIVvU-sBFmg=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5OF9UQWpBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICy8_TAjAE%7CCgwI-ZyagQYQ2OmLxAI%7C"
+                    },
+                    {
+                        "name":  "Mamatha Nagaraja",
+                        "rating":  4,
+                        "text":  "One of the best teachers who apart from teaching the kids fills the child with positivity n confidence that\u0027s much needed..appreciate ur teaching skills with patience n perseverance..wud heartily recommend  to ppl in n around shanthinagar for disha tutions",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUC3GOmxagS1dkV1no_SbtmnDpdS6LH3DNqtY-BLV4cMoWy1-WQ=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5eTVPRXF3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICyy5OEqwE%7CCgwI-NqdgQYQuMD81wI%7C"
+                    },
+                    {
+                        "name":  "Krisha Khanted",
+                        "rating":  5,
+                        "text":  "One of the best teachers I have ever seen. I was fortunate enough to have learnt from Komal ma\u0027am.\nSince the time I joined her classes maths seemed the most simple and fun subjects. I remember all the math formulas till date all thanks to her.\nCan\u0027t thank you enough Komal aunty!",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjUwlTBV495THMaYfaNnhzkVVvxAP_ghS_J4Q0NxsptEXpb33WQ=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN5aDVDUFVREAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICyh5CPUQ%7CCgsItO2ngQYQqP3zGQ%7C"
+                    },
+                    {
+                        "name":  "Sonakshi Pradeep",
+                        "rating":  5,
+                        "text":  "I have learned so much in my classes at Disha tuitions.Komal Ma’am is a very thoughtful teacher when it comes to presenting the material and makes sure it’s taught in the easiest way, she is also very patient with everyone in class always encouraging her students to do better and the kindest teacher who puts everything across in the most fun way possible. I would highly recommend her to anyone interested in learning.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocIHLyutt6prAcCCJXJ-PrAbBzCcjLQ-4hWfDLxvDz7F8sLuHQ=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5aDlxTjJ3RRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICyh9qN2wE%7CCgoI1LWogQYQqP4X%7C"
+                    },
+                    {
+                        "name":  "Aabha Chhajer",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjXMtai-hq3RkcTpzCFEeKWjq2Exnl5l1KsdS5shumJFAK1zf1Ftzw=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5NE1hTXVnRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDy4MaMugE%7CCgsIqZ_EgQYQyK6hCQ%7C"
+                    },
+                    {
+                        "name":  "disha dhanesha",
+                        "rating":  5,
+                        "text":  "Classes here have been extremely helpful\nKomal ma’am is an incredible teacher she presents the subject in a way that is easily understood by the students.she is always very patient with all her students and makes them feel comfortable. My classes here have helped me score good grades would definitely recommend this place for tuitions.",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjW7tLJRHkkINImdSRPe13K58asvL0drfRHPT7VVIpVBjYiFdM93=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5NEptNTdBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgIDy4Jm57AE%7CCgwIzcHEgQYQ0MGbpgE%7C"
+                    },
+                    {
+                        "name":  "Priyanka Varma",
+                        "rating":  5,
+                        "text":  null,
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjVXlHJV6cbC-m9E0Jkmtv956MCSE2qchyBtOVOJNZguyuJyRIoR=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLdHRqVlN3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKttjVSw%7CCgwI6tmogwYQoJzP3QI%7C"
+                    },
+                    {
+                        "name":  "varsha malpani",
+                        "rating":  5,
+                        "text":  "My child had an amazing experience while learning with komal ma\u0027am. She is an experienced and a wonderful teacher",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKAwFTzWJY090BME69VC5qSuwCuhnPY_CGn-hHe4ztGVK16lQ=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLbnZ6Z1pnEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKnvzgZg%7CCgwIwNyxgwYQ4P_F-wE%7C"
+                    },
+                    {
+                        "name":  "anita goel",
+                        "rating":  5,
+                        "text":  "Will give her 5 stars. She is an amazing teacher with lots of patience and excellent explanation technique.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocKwDbhBwWnwMugVi5kF3JRyR2kjzh4wJOos11j7uEq_-rzX5g=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLbnY3bl9BRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKnv7n_AE%7CCgwIpf2xgwYQ0O3P7gI%7C"
+                    },
+                    {
+                        "name":  "nidhi asrani",
+                        "rating":  5,
+                        "text":  "My son has been studying here... personal attention and dedication towards every student..keep up the diligence !",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLSvl9pAgvBbqW1GGkf-X9U0-ULg9ZnD8goEluo5pig5oW_HA=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLZ1pxMnBRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKgZq2pQE%7CCgwImKa3gwYQ2OXSjgM%7C"
+                    },
+                    {
+                        "name":  "Kirti Amar",
+                        "rating":  5,
+                        "text":  "She has been a really good and cooperative teacher . My son has improved a lot in his subjects .",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLPSzNBml2rHELPBvvNIfkUY0QoUc-8p5Y9B_HqqeZQt5z3ww=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLc2RYNzlBRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICKsdX79AE%7CCgwIqM3AgwYQsI-tqgM%7C"
+                    },
+                    {
+                        "name":  "Aditi Mehta V",
+                        "rating":  5,
+                        "text":  "One of the best maths teacher i have ever seen.Maths had never been so easy before.\nVery fortunate enough to learn from komal ma\u0027am.",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocLoI7zb0bxKgW4Ed2VCzwaouLk77LgPtaMWWd7Q6hkXVFmEPw=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLOGRQN3JRRRAB!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICK8dP7rQE%7CCgsI6PPBgwYQyMKJcA%7C"
+                    },
+                    {
+                        "name":  "Gaurav Talreja",
+                        "rating":  5,
+                        "text":  "Komal Ma\u0027am  is a very good teacher  and gives  personal attention  and makes it easy for the  Children to understand  !",
+                        "photo":  "https://lh3.googleusercontent.com/a-/ALV-UjWFqi_TbXV1y3CDSWcAUkMSBQSE1MbHo6lCHGBx3V3O3DkGhN5hMw=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNxMnZyMFp3EAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICq2vr0Zw%7CCgwIubPkhQYQsMqftgM%7C"
+                    },
+                    {
+                        "name":  "SWAROOP PRADEEP",
+                        "rating":  5,
+                        "text":  ".Komals manner of teaching is so wonderful and refreshing!! She’s a   kind patient calm and supportive soul,and  really knows how to motivate her students. She’ great at building confidence and keeping lessons fun and engaging through a variety of activities that improve their skills in the particular subject.\n\nI would highly recommend Disha Tutions for anyone  who is looking for safe, supportive learning environment for their child. My daughter was extremely at home comfortable and safe under Komals  kind care ..Komal was always there for her anytime of the day to clear her doubts especially during her exams",
+                        "photo":  "https://lh3.googleusercontent.com/a/ACg8ocJzeYFSzjQrGzKAKUKDUlEoE0llXX8R7wc7SHlEJuljo3plWw=s120-c-rp-mo-br100",
+                        "date":  "2021-06-26",
+                        "url":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNxX3JXNUZBEAE!2m1!1s0x0:0x44379d019eccbc60!3m1!1s2@1:CIHM0ogKEICAgICq_rW5FA%7CCgwIyPf9hQYQiLXdjgM%7C"
+                    }
+                ]
+}
