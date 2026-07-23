@@ -1,0 +1,21 @@
+# Apache fallback (if using Apache on the Pi instead of Nginx)
+Options -MultiViews
+RewriteEngine On
+
+# Force trailing-slash folders
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.+[^/])$ $1/ [R=301,L]
+
+# Redirect legacy .html pages
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^html/about\.html$ /about/ [R=301,L]
+RewriteRule ^html/contact\.html$ /contact/ [R=301,L]
+RewriteRule ^html/reviews\.html$ /reviews/ [R=301,L]
+RewriteRule ^html/experience\.html$ /about/ [R=301,L]
+RewriteRule ^html/education\.html$ /about/ [R=301,L]
+
+# Serve file or directory; never expose .html in links (folders use index.html)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]

@@ -1,65 +1,547 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Disha Tuitions</title>
-    <link rel="stylesheet" href="styles.css">
-    <script>
-        function adjustIframeHeight() {
-            var iframe = document.getElementById('google-form');
-            if (iframe) {
-                iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-            }
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Disha Tuitions | Mathematics Coaching for Class 9–12, PU, KCET & JEE</title>
+  <meta name="description" content="Disha Tuitions — 15+ years of personalized Mathematics coaching in Bengaluru for Class 9–12, PU, Engineering, KCET & JEE. Online and offline classes.">
+  <meta name="keywords" content="Mathematics Tuition, KCET Coaching, JEE Mathematics, Engineering Mathematics, Mathematics Tutor, Online Maths Coaching, Offline Maths Coaching, Bengaluru Mathematics Tuition, Disha Tuitions">
+  <meta name="theme-color" content="#2563EB">
+  <link rel="canonical" href="https://dishatuitions.in/">
 
-        window.addEventListener('DOMContentLoaded', adjustIframeHeight);
-        window.addEventListener('resize', adjustIframeHeight);
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dishatuitions.in/">
+  <meta property="og:title" content="Disha Tuitions | Master Mathematics with Confidence">
+  <meta property="og:description" content="Personalized Mathematics coaching for School, PU, Engineering, KCET & JEE with over 15 years of proven teaching excellence.">
+  <meta property="og:image" content="https://dishatuitions.in/assets/illustrations/hero.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Disha Tuitions | Master Mathematics with Confidence">
+  <meta name="twitter:description" content="Personalized Mathematics coaching for School, PU, Engineering, KCET & JEE students.">
 
-        function toggleMenu() {
-            const nav = document.querySelector('nav');
-            nav.classList.toggle('active');
-        }
-    </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "Disha Tuitions",
+    "url": "https://dishatuitions.in/",
+    "description": "Personalized Mathematics coaching for Class 9 and above, PU, Engineering, KCET and JEE — online and offline.",
+    "email": "komalsoliwal2@gmail.com",
+    "telephone": "+91-9343655255",
+    "founder": {
+      "@type": "Person",
+      "name": "Komal Soliwal",
+      "jobTitle": "Mathematics Faculty"
+    },
+    "areaServed": "Bengaluru",
+    "sameAs": []
+  }
+  </script>
 </head>
 <body>
-    <header>
-        <div class="header-container">
-            <h1><a href="./index.html">Disha Tuitions</a></h1>
-            <button class="hamburger" onclick="toggleMenu()">&#9776;</button>
-            <nav>
-                <ul>
-                    <li><a href="./html/about.html">About Me</a></li>
-                    <li><a href="./html/experience.html">Experience</a></li>
-                    <li><a href="./html/education.html">Education</a></li>
-                    <li><a href="./html/reviews.html">Reviews</a></li>
-                    <li><a href="./html/contact.html">Contact Me</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+  <div class="loader" aria-hidden="true"><div class="loader-ring"></div></div>
 
-    <section id="intro">
-        <div class="intro-content">
-            <h2>Welcome to Disha Tuitions</h2>
-            <p>Providing top-notch mathematics education for over 15 years. Tailored tutoring for school and college students, focusing on understanding, performance, and confidence-building.</p>
-            <a href="./html/contact.html" class="contact-button">Get in Touch</a>
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a class="logo" href="/">Disha <span>Tuitions</span></a>
+      <nav class="nav-links" id="nav-menu" aria-label="Primary">
+        <a href="#home" class="active">Home</a>
+        <a href="#courses">Courses</a>
+        <a href="#why-us">Why Choose Us</a>
+        <a href="#results">Results</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="icon-btn" type="button" data-theme-toggle aria-label="Toggle dark mode">◐</button>
+        <a class="btn btn-nav" href="https://wa.me/919343655255" target="_blank" rel="noopener">WhatsApp</a>
+        <button class="hamburger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="nav-menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero -->
+    <section class="hero" id="home">
+      <div class="math-float" aria-hidden="true">
+        <span style="top:10%;left:6%">∫ f(x) dx</span>
+        <span style="top:18%;right:10%">πr²</span>
+        <span style="top:8%;left:38%">a² + b² = c²</span>
+        <span style="top:28%;left:14%">Σ xᵢ</span>
+        <span style="top:32%;right:18%">lim → ∞</span>
+        <span style="top:42%;left:3%">Δy / Δx</span>
+        <span style="top:48%;right:6%">E = mc²</span>
+        <span style="top:55%;left:22%">sin²θ + cos²θ = 1</span>
+        <span style="top:62%;right:22%">y = mx + c</span>
+        <span style="bottom:28%;left:8%">√(x² + y²)</span>
+        <span style="bottom:22%;right:12%">d/dx (xⁿ)</span>
+        <span style="bottom:14%;left:28%">log₁₀ x</span>
+        <span style="bottom:10%;right:28%">∞</span>
+        <span style="top:72%;left:45%">∇ · F</span>
+        <span style="top:20%;left:55%">∛8 = 2</span>
+        <span style="top:78%;right:8%">P(A∪B)</span>
+        <span style="top:38%;left:48%">nCr</span>
+        <span style="bottom:36%;right:38%">e^(iπ) + 1 = 0</span>
+      </div>
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Bengaluru · Online & Offline</p>
+          <h1 class="hero-title">Master Mathematics<br>with <em>Confidence.</em></h1>
+          <p class="hero-sub">Personalized coaching for School, PU, Engineering, KCET &amp; JEE students with over 15 years of proven teaching excellence.</p>
+          <div class="hero-ctas">
+            <a class="btn btn-primary" href="https://wa.me/919343655255" target="_blank" rel="noopener">Contact on WhatsApp</a>
+            <a class="btn btn-secondary" href="#contact">View Contact</a>
+          </div>
         </div>
+        <div class="hero-visual" aria-hidden="true">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 480" fill="none" width="520" height="480">
+            <defs>
+              <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0%" stop-color="#EFF6FF"/>
+                <stop offset="100%" stop-color="#DBEAFE"/>
+              </linearGradient>
+              <linearGradient id="heroBoard" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#1E3A8A"/>
+                <stop offset="100%" stop-color="#1E40AF"/>
+              </linearGradient>
+            </defs>
+            <rect width="520" height="480" rx="28" fill="url(#heroBg)"/>
+            <ellipse cx="260" cy="430" rx="180" ry="18" fill="#BFDBFE" opacity=".6"/>
+            <rect x="90" y="70" width="340" height="200" rx="16" fill="url(#heroBoard)"/>
+            <rect x="106" y="88" width="308" height="164" rx="10" fill="#172554"/>
+            <text x="130" y="130" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">f(x) dx = F(x) + C</text>
+            <text x="130" y="170" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="18">y = mx + c</text>
+            <text x="130" y="210" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="18">a^2 + b^2 = c^2</text>
+            <path d="M300 150 Q340 120 380 160" stroke="#FCA5A5" stroke-width="2.5" fill="none"/>
+            <circle cx="300" cy="150" r="3" fill="#FCA5A5"/>
+            <circle cx="380" cy="160" r="3" fill="#FCA5A5"/>
+            <circle cx="180" cy="320" r="28" fill="#FBBF24"/>
+            <rect x="155" y="350" width="50" height="70" rx="18" fill="#2563EB"/>
+            <rect x="140" y="365" width="18" height="50" rx="8" fill="#1D4ED8"/>
+            <rect x="202" y="365" width="18" height="50" rx="8" fill="#1D4ED8"/>
+            <line x1="220" y1="360" x2="270" y2="300" stroke="#FBBF24" stroke-width="6" stroke-linecap="round"/>
+            <circle cx="300" cy="340" r="20" fill="#F59E0B"/>
+            <rect x="280" y="362" width="40" height="55" rx="14" fill="#3B82F6"/>
+            <circle cx="370" cy="345" r="20" fill="#FB923C"/>
+            <rect x="350" y="367" width="40" height="50" rx="14" fill="#60A5FA"/>
+            <rect x="250" y="415" width="180" height="12" rx="6" fill="#93C5FD"/>
+            <g opacity=".85">
+              <rect x="28" y="120" width="56" height="36" rx="12" fill="#fff" stroke="#BFDBFE"/>
+              <text x="42" y="144" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">pi</text>
+              <rect x="430" y="100" width="64" height="36" rx="12" fill="#fff" stroke="#BFDBFE"/>
+              <text x="442" y="124" fill="#EA580C" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Sum</text>
+              <rect x="40" y="250" width="70" height="36" rx="12" fill="#fff" stroke="#BFDBFE"/>
+              <text x="52" y="274" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">dx</text>
+              <rect x="420" y="250" width="72" height="36" rx="12" fill="#fff" stroke="#BFDBFE"/>
+              <text x="432" y="274" fill="#7C3AED" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">lim</text>
+            </g>
+          </svg>
+        </div>
+      </div>
     </section>
 
-    <section id="highlights">
-        <h2>What We Offer</h2>
-        <ul>
-            <li>Personalized Tuition for 9th and above (Online & Offline)</li>
-            <li>Experienced and Dedicated Teacher</li>
-            <li>Proven Track Record of Success</li>
-            <li>Inclusive and Positive Learning Environment</li>
-            <li>Preparation for Competitive Exams (KCET, JEE)</li>
-        </ul>
+    <!-- Trust stats -->
+    <section class="trust" aria-label="Key statistics">
+      <div class="container">
+        <div class="trust-grid reveal">
+          <div class="stat">
+            <div class="stat-value"><span data-count="15" data-suffix="+">0</span></div>
+            <div class="stat-label">Years Experience</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value"><span data-count="1000" data-suffix="+">0</span></div>
+            <div class="stat-label">Students Taught</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value"><span data-count="95" data-suffix="%">0</span></div>
+            <div class="stat-label">Success Rate</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value">Online + Offline</div>
+            <div class="stat-label">Flexible Learning</div>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <footer>
-        <p>Contact me at <a href="mailto:komalsoliwal2@gmail.com">komalsoliwal2@gmail.com</a> or call <a href="tel:+91 9343655255">+91 9343655255</a></p>
-    </footer>
+    <!-- Why Choose Us -->
+    <section class="section" id="why-us">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Why Choose Disha</p>
+          <h2 class="section-title">What We Offer</h2>
+          <p class="section-lead">Top-notch mathematics education tailored for school and college students — focusing on understanding, performance, and confidence-building.</p>
+        </div>
+        <div class="card-grid">
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🎓</div>
+            <h3>Experienced Faculty</h3>
+            <p>Dedicated Mathematics teacher with 15+ years of school, college, and personalised tuition experience.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">👤</div>
+            <h3>Individual Attention</h3>
+            <p>Personalized tuition that adapts teaching methods to each student’s needs and learning style.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">👥</div>
+            <h3>Small Batch Size</h3>
+            <p>Focused groups so every student gets the guidance and mentoring they need to improve.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">💡</div>
+            <h3>Concept Based Learning</h3>
+            <p>Complex concepts explained clearly — building strong foundations, not rote memorization.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">📝</div>
+            <h3>Weekly Tests</h3>
+            <p>Regular practice and assessments to track progress and prepare for boards and competitive exams.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">❓</div>
+            <h3>Doubt Solving</h3>
+            <p>Clear communication and constructive feedback so doubts never hold learning back.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🎯</div>
+            <h3>KCET / JEE Prep</h3>
+            <p>Preparation for competitive exams including KCET and JEE Mathematics.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">📈</div>
+            <h3>Performance Tracking</h3>
+            <p>Proven track record of success with regular parent and student interaction on goals and progress.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Courses -->
+    <section class="section section-alt" id="courses">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Courses</p>
+          <h2 class="section-title">Mathematics for every stage</h2>
+          <p class="section-lead">Personalized tuition for 9th and above — online and offline — from school boards to competitive exams.</p>
+        </div>
+        <div class="courses-grid">
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">9️⃣</div>
+            <div class="course-body">
+              <h3>Class 9 Mathematics</h3>
+              <p>Strong foundations in algebra, geometry, and problem-solving for secondary school.</p>
+              <span class="course-meta">Academic year · Online / Offline</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*Class%209%20Mathematics*.%0APlease%20share%20details%20about%20batches%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">🔟</div>
+            <div class="course-body">
+              <h3>Class 10 Mathematics</h3>
+              <p>Board-focused coaching with concept clarity, practice, and confidence-building.</p>
+              <span class="course-meta">Academic year · Online / Offline</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*Class%2010%20Mathematics*.%0APlease%20share%20details%20about%20batches%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">📘</div>
+            <div class="course-body">
+              <h3>PU Mathematics</h3>
+              <p>11th &amp; 12th PUC Mathematics — calculus, algebra, trigonometry, and board prep.</p>
+              <span class="course-meta">PUC curriculum · Online / Offline</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*PU%20Mathematics*%20(11th%20%2F%2012th%20PUC).%0APlease%20share%20details%20about%20batches%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">⚙️</div>
+            <div class="course-body">
+              <h3>Engineering Mathematics</h3>
+              <p>College-level mathematics support for engineering students who need clarity and results.</p>
+              <span class="course-meta">Semester-wise · Online / Offline</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*Engineering%20Mathematics*.%0APlease%20share%20details%20about%20batches%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">🏆</div>
+            <div class="course-body">
+              <h3>KCET Preparation</h3>
+              <p>Targeted KCET Mathematics coaching with strategy, practice, and feedback.</p>
+              <span class="course-meta">Exam prep · Online / Offline</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*KCET%20Preparation*%20(Mathematics).%0APlease%20share%20details%20about%20batches%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">🚀</div>
+            <div class="course-body">
+              <h3>JEE Mathematics</h3>
+              <p>Competitive exam preparation focused on concepts, speed, and accuracy.</p>
+              <span class="course-meta">Exam prep · Online / Offline</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*JEE%20Mathematics*.%0APlease%20share%20details%20about%20batches%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">💻</div>
+            <div class="course-body">
+              <h3>Online Classes</h3>
+              <p>Live, interactive online Mathematics sessions with the same personalised approach.</p>
+              <span class="course-meta">Flexible schedule</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*Online%20Mathematics%20Classes*.%0APlease%20share%20details%20about%20available%20courses%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+          <article class="course-card">
+            <div class="course-art" aria-hidden="true">🏫</div>
+            <div class="course-body">
+              <h3>Offline Classes</h3>
+              <p>In-person coaching in a positive, inclusive learning environment in Bengaluru.</p>
+              <span class="course-meta">Bengaluru</span>
+              <a class="btn btn-ghost" href="https://wa.me/919343655255?text=Hello%20Disha%20Tuitions%2C%0A%0AI%20am%20interested%20in%20*Offline%20Mathematics%20Classes*%20in%20Bengaluru.%0APlease%20share%20details%20about%20available%20courses%2C%20timings%2C%20and%20fees." target="_blank" rel="noopener">Enquire</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Learning process -->
+    <section class="section" id="process">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Learning Process</p>
+          <h2 class="section-title">From demo to excellent results</h2>
+          <p class="section-lead">A clear path designed around understanding, practice, and steady improvement.</p>
+        </div>
+        <div class="process">
+          <div class="process-step">
+            <div class="step-num">1</div>
+            <h3>Free Demo Class</h3>
+            <p>Experience the teaching style before you enroll.</p>
+          </div>
+          <div class="process-step">
+            <div class="step-num">2</div>
+            <h3>Assessment</h3>
+            <p>Understand strengths, gaps, and learning goals.</p>
+          </div>
+          <div class="process-step">
+            <div class="step-num">3</div>
+            <h3>Personalized Learning</h3>
+            <p>Lessons tailored to individual student needs.</p>
+          </div>
+          <div class="process-step">
+            <div class="step-num">4</div>
+            <h3>Weekly Tests</h3>
+            <p>Regular practice, mocks, and constructive feedback.</p>
+          </div>
+          <div class="process-step">
+            <div class="step-num">5</div>
+            <h3>Excellent Results</h3>
+            <p>Better scores, stronger concepts, lasting confidence.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Results -->
+    <section class="section section-alt" id="results">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Student Results</p>
+          <h2 class="section-title">A proven track record of success</h2>
+          <p class="section-lead">Students improve understanding and performance across boards and competitive exams through concept-based coaching.</p>
+        </div>
+        <div class="results-grid">
+          <article class="result-card reveal">
+            <h3>Board Exam Focus</h3>
+            <p>Structured practice and feedback for Class 9–10 and PUC board Mathematics.</p>
+          </article>
+          <article class="result-card reveal">
+            <h3>KCET &amp; JEE Ready</h3>
+            <p>Competitive exam preparation with strategy teaching and targeted support.</p>
+          </article>
+          <article class="result-card reveal">
+            <h3>Confidence &amp; Clarity</h3>
+            <p>Students gain the ability to tackle complex problems with clear concepts.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials — filled from /data/google-reviews.json (live Google fetch snapshot) -->
+    <section class="section" id="testimonials">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Google Reviews</p>
+          <h2 class="section-title">What parents &amp; students say</h2>
+          <div class="rating-badge" data-reviews-summary>
+            <div class="rating-score" data-rating-score>4.9</div>
+            <div>
+              <div class="stars" aria-label="4.9 out of 5">★★★★★</div>
+              <p>Based on <strong data-rating-total>99</strong> Google reviews</p>
+            </div>
+            <a class="btn btn-secondary" href="/reviews/">See all reviews</a>
+            <a class="btn btn-ghost" data-google-review-link href="https://search.google.com/local/writereview?placeid=ChIJkTNvKdAVrjsRYLzMngGdN0Q" target="_blank" rel="noopener">Review us on Google</a>
+          </div>
+          <ul class="review-highlights" data-review-highlights>
+            <li>Personalized teaching style improving grades and confidence</li>
+            <li>Creates fun and productive learning environment for students</li>
+            <li>Encourages love for subject and ensures crystal-clear understanding</li>
+          </ul>
+        </div>
+      </div>
+      <div class="testimonials-wrap">
+        <div class="testimonial-track" data-testimonial-track>
+          <p class="section-lead" style="padding:1rem 2rem;margin:0">Loading Google reviews…</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Teacher -->
+    <section class="section section-alt" id="teacher">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Meet Your Teacher</p>
+          <h2 class="section-title">Experienced &amp; dedicated faculty</h2>
+        </div>
+        <div class="teacher reveal">
+          <img class="teacher-photo" src="/assets/Passport_komal_soliwal.jpg" width="280" height="360" alt="Komal Soliwal, Mathematics faculty at Disha Tuitions" loading="lazy" decoding="async">
+          <div class="teacher-content">
+            <h3>Komal Soliwal</h3>
+            <p class="teacher-role">Mathematics Faculty · 15+ Years Experience</p>
+            <p>Dedicated and accomplished teacher with a strong background in Mathematics and Physics. Proven track record of effective teaching at school and college levels, and through personalized home tuition. Committed to fostering a positive and inclusive learning environment.</p>
+            <blockquote class="quote">“Mathematics becomes easy when concepts become clear.”</blockquote>
+            <p><strong>Specializations:</strong> Class 9–12, PU Mathematics, Engineering Mathematics, KCET &amp; JEE.</p>
+            <div class="chip-row">
+              <span class="chip">MSc Mathematics</span>
+              <span class="chip">Osmania University</span>
+              <span class="chip">Online &amp; Offline</span>
+              <span class="chip">Concept Clarity</span>
+            </div>
+            <p style="margin-top:1.25rem"><a class="btn btn-secondary" href="/about/">Full profile &amp; experience</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Gallery -->
+    <section class="section" id="gallery">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Gallery</p>
+          <h2 class="section-title">Learning at Disha</h2>
+          <p class="section-lead">A glimpse of the positive, focused learning environment — classroom, online sessions, and student progress.</p>
+        </div>
+        <div class="gallery">
+          <div class="gallery-item"><div class="tile"><div><span style="font-size:2rem">🏫</span><strong>Classroom</strong><span>Focused offline learning</span></div></div></div>
+          <div class="gallery-item"><div class="tile"><div><span style="font-size:2rem">👨‍🎓</span><strong>Students</strong><span>Individual attention</span></div></div></div>
+          <div class="gallery-item"><div class="tile"><div><span style="font-size:2rem">📐</span><strong>Teaching</strong><span>Concept-based lessons</span></div></div></div>
+          <div class="gallery-item"><div class="tile"><div><span style="font-size:2rem">🎉</span><strong>Events</strong><span>Milestones &amp; celebrations</span></div></div></div>
+          <div class="gallery-item"><div class="tile"><div><span style="font-size:2rem">💻</span><strong>Online Sessions</strong><span>Live interactive classes</span></div></div></div>
+          <div class="gallery-item"><div class="tile"><div><span style="font-size:2rem">🏅</span><strong>Certificates</strong><span>Achievement recognition</span></div></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section section-alt" id="faq">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">FAQ</p>
+          <h2 class="section-title">Common questions</h2>
+        </div>
+        <div class="faq-list reveal">
+          <div class="faq-item open">
+            <button class="faq-q" type="button">Do you provide online classes?</button>
+            <div class="faq-a">Yes. Disha Tuitions offers both online and offline Mathematics coaching for school and college students.</div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-q" type="button">What is the batch size?</button>
+            <div class="faq-a">We keep batches small so every student receives individual attention and mentoring.</div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-q" type="button">Do you teach Engineering Mathematics?</button>
+            <div class="faq-a">Yes. Engineering Mathematics coaching is available along with school, PU, KCET, and JEE Mathematics.</div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-q" type="button">Can I attend a demo class?</button>
+            <div class="faq-a">Yes. Reach out on WhatsApp or phone to schedule a demo class and experience the teaching style.</div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-q" type="button">Do you prepare students for KCET and JEE?</button>
+            <div class="faq-a">Yes. Preparation for competitive exams including KCET and JEE Mathematics is a core part of what we offer.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section" id="contact">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">Contact</p>
+          <h2 class="section-title">Get in touch</h2>
+        </div>
+        <div class="contact-info reveal" style="max-width:720px;margin-inline:auto">
+          <iframe class="map-embed" title="Bengaluru map" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=Bengaluru&t=&z=12&ie=UTF8&iwloc=&output=embed"></iframe>
+          <div class="info-row"><strong>Phone:</strong> <a href="tel:+919343655255">+91 9343655255</a></div>
+          <div class="info-row"><strong>Email:</strong> <a href="mailto:komalsoliwal2@gmail.com">komalsoliwal2@gmail.com</a></div>
+          <div class="info-row"><strong>WhatsApp:</strong> <a href="https://wa.me/919343655255" target="_blank" rel="noopener">Chat now</a></div>
+          <div class="info-row"><strong>Mode:</strong> Online &amp; Offline · Bengaluru</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <a class="logo" href="/">Disha <span>Tuitions</span></a>
+          <p>Personalized Mathematics coaching for School, PU, Engineering, KCET &amp; JEE — with over 15 years of teaching excellence.</p>
+        </div>
+        <div>
+          <h4>Quick Links</h4>
+          <a href="#home">Home</a>
+          <a href="#why-us">Why Choose Us</a>
+          <a href="#courses">Courses</a>
+          <a href="/about/">About</a>
+          <a href="/reviews/">Reviews</a>
+        </div>
+        <div>
+          <h4>Courses</h4>
+          <a href="#courses">Class 9–10</a>
+          <a href="#courses">PU Mathematics</a>
+          <a href="#courses">KCET &amp; JEE</a>
+          <a href="#courses">Engineering Maths</a>
+        </div>
+        <div>
+          <h4>Contact</h4>
+          <a href="tel:+919343655255">+91 9343655255</a>
+          <a href="mailto:komalsoliwal2@gmail.com">komalsoliwal2@gmail.com</a>
+          <a href="https://wa.me/919343655255" target="_blank" rel="noopener">WhatsApp</a>
+          <a href="https://maps.google.com/?q=Bengaluru" target="_blank" rel="noopener">Google Maps</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year>2026</span> Disha Tuitions. All rights reserved.</span>
+        <span>Mathematics Tuition · Bengaluru</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="float-actions">
+    <a class="float-btn float-wa" href="https://wa.me/919343655255" target="_blank" rel="noopener" aria-label="WhatsApp">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+    </a>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
+  <script src="/js/main.js" defer></script>
 </body>
 </html>

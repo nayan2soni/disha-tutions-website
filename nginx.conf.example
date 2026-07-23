@@ -1,0 +1,46 @@
+# Nginx snippet for Raspberry Pi — clean URLs (no .html in the address bar)
+# Place site files in /var/www/dishatuitions (or your root) and include this server block.
+
+server {
+    listen 80;
+    server_name dishatuitions.in www.dishatuitions.in;
+    root /var/www/dishatuitions;
+    index index.html;
+
+    # Gzip for light Pi bandwidth
+    gzip on;
+    gzip_types text/css application/javascript image/svg+xml application/json;
+    gzip_min_length 256;
+
+    # Long cache for static assets
+    location ~* \.(css|js|svg|jpg|jpeg|png|webp|woff2)$ {
+        expires 7d;
+        add_header Cache-Control "public";
+        try_files $uri =404;
+    }
+
+    # Folder-based clean URLs: /about → /about/
+    location / {
+        try_files $uri $uri/ $uri.html =404;
+    }
+
+    # Redirect old .html paths to clean URLs
+    location = /index.html {
+        return 301 /;
+    }
+    location = /html/about.html {
+        return 301 /about/;
+    }
+    location = /html/contact.html {
+        return 301 /contact/;
+    }
+    location = /html/reviews.html {
+        return 301 /reviews/;
+    }
+    location = /html/experience.html {
+        return 301 /about/;
+    }
+    location = /html/education.html {
+        return 301 /about/;
+    }
+}
