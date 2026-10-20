@@ -137,11 +137,11 @@
 
   function cardHtml(review, compact) {
     const text = (review.text || "").trim();
-    if (!text) return "";
+    if (!text && compact) return ""; // rating-only reviews appear on the full page only
     const quote = compact ? `“${escapeHtml(text)}”` : escapeHtml(text);
     return `<article class="${compact ? "testimonial-card" : "review-card"}">
       <div class="stars" aria-label="${review.rating} stars">${stars(review.rating)}</div>
-      <p>${quote}</p>
+      ${text ? `<p>${quote}</p>` : ""}
       <div class="person">${avatarHtml(review)}<div><strong>${escapeHtml(review.name)}</strong><span>Google · ${escapeHtml(relativeDate(review.date))}</span></div></div>
     </article>`;
   }
@@ -192,7 +192,7 @@
 
       const grid = $("[data-reviews-grid]");
       if (grid) {
-        grid.innerHTML = withText.map((r) => cardHtml(r, false)).join("") || "<p>No reviews found.</p>";
+        grid.innerHTML = (data.reviews || []).map((r) => cardHtml(r, false)).join("") || "<p>No reviews found.</p>";
       }
     })
     .catch(() => {

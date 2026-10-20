@@ -181,6 +181,8 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
   color: var(--blue);
   letter-spacing: -0.02em;
 }
+.logo { display: inline-flex; align-items: center; gap: 0.5rem; }
+.logo img { width: 36px; height: 36px; }
 .logo span { color: var(--text); }
 .nav-links {
   display: flex;
